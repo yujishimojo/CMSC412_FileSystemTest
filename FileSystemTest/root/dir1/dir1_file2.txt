@@ -1,0 +1,2 @@
+This is dir1_file2.txt
+File path is dir1\dir1_file2.txt
